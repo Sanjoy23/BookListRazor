@@ -748,3 +748,4 @@ D:\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csproj.Copy
 D:\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.dll
 D:\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.pdb
 D:\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.genruntimeconfig.cache
+D:\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
